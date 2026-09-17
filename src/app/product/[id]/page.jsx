@@ -5,6 +5,6 @@ export default async function product({params}){
 
     return (<div>
         hiii
-        
+        {id}
     </div>)
 }
